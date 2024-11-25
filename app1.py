@@ -6,7 +6,7 @@ import os
 # Configurazione iniziale
 TIME_PER_DEVICE = 3  # Minuti per caricare un apparato
 START_TIME = "09:00"
-END_TIME = "17:00"
+END_TIME = "16:00"
 FILE_NAME = "prenotazioni.xlsx"
 
 # Credenziali di accesso
